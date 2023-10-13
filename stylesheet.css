@@ -1,4 +1,6 @@
 @font-face {
     font-family: 'WortellinaEdit';
-    src: url('https://fontedits10.github.io/fontedits/WortellinaEdit.woff') format('woff');
+    src: local('WortellinaEdit'), url('https://fontedits10.github.io/fontedits/WortellinaEdit.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
 }
